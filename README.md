@@ -2,6 +2,8 @@
 
 ## 1. Introduction
 
+![flow chart](https://github.com/lhshuang/CellEnergy/blob/main/flow%20chart.png)
+
 CellEnergy, a novel approach that assigns an energy indicator to individual cells based on Gene Local Network Energy (GLNE). CellEnergy can measure cellular plasticity, identify finer cell subpopulations, automatically detect terminal cell states without prior biological knowledge, and support mapping cell fate and deciphering driver genes. This package has a dependency on R version (R >= 4.3.0). 
 
 ## 2. Installation
