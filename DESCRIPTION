@@ -1,0 +1,25 @@
+Package: CellEnergy
+Type: Package
+Title: Quantitative mapping of cell fate transitions
+Version: 0.1.0
+SystemRequirements: Python (>= 3.9)
+Author: Hanshuang Li and Chunshen Long
+Maintainer: Hanshuang Li <1278371034@qq.com>
+Description: A tool that assigns an energy indicator to individual cells based on Gene Local Network Energy
+Depends: R (>= 4.3.0),
+    grDevices,
+    graphics,
+    marray,
+    mclust,
+    philentropy,
+    plot3D,
+    reticulate,
+    stats,
+    Matrix,
+    parallel,
+    plyr,
+    dplyr,
+    ggplot2
+License: What license it uses
+Encoding: UTF-8
+RoxygenNote: 7.2.3
