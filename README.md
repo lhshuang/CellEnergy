@@ -32,4 +32,4 @@ library("CellEnergy")
 
 ## 3. Tutorials
 
- [mouse pancreatic endocrine lineage formation.](https://github.com/lhshuang/CellEnergy/tree/main/inst/Tutorials) Data available [here](https://github.com/lhshuang/CellEnergy/tree/main/inst/extdata).
+ [mouse pancreatic endocrine lineage formation.](https://github.com/lhshuang/CellEnergy/tree/main/inst/Tutorials) Data available [here](https://github.com/lhshuang/CellEnergy/tree/main/inst/extdata/input).
